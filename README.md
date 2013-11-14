@@ -3,8 +3,6 @@ mejorandoWeb
 
 Ejercicios realizados en el curso de diseño web online.
 
-@soycamis
-
 Comandos basicos de git.
 
 iniciar repos git en una carpeta nueva.
@@ -21,3 +19,5 @@ git push origin master
 
 hacer un comentario antes de subir los cambios al remoto.
 git commit -m "readme actualizado..."
+
+- @soycamis
