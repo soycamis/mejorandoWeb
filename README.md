@@ -20,4 +20,4 @@ subir cambios realizados del repo local al remoto.
 hacer un comentario antes de subir los cambios al remoto.
 - git commit -m "readme actualizado..."
 
-@soycamis
+Camilo Sosa Morales - @soycamis
